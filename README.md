@@ -18,3 +18,7 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 # How to use it
 `python3 d0rkfind3r.py`
 
+`Write the file name .txt (add the path if necesarry): dorks.txt´
+`Enter a URL that will replace 'target.com': url.com´
+
+
