@@ -3,6 +3,8 @@ D0rkFind3r is a tool designed to automate web reconnaissance tasks through open-
 
 To use the tool, we will need a Google API_KEY and a custom search engine to prevent Google from blocking us if we make too many requests.
 
+In the "dorks" file, there are some entries already created, but it can be extended as long as "target.com" (with the quotes) appears, as the script will replace that with the URL you provide when prompted by the script.
+
 Additionally, we can populate the "dorks" file with custom searches by simply changing the "target.com" attribute.
 
 # Screenshots of the tool
