@@ -15,3 +15,6 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 
 ![image](https://github.com/user-attachments/assets/3384ff7e-dd6a-435c-9117-855bf1cd7687)
 
+# How to use it
+`python3 d0rkfind3r.py`
+
