@@ -11,7 +11,7 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 
 ![image](https://github.com/user-attachments/assets/02ebb69d-7673-4a95-9a87-d9f78a25c830)
 
-# ________________________________________________________________________
+#
 
 ![image](https://github.com/user-attachments/assets/3384ff7e-dd6a-435c-9117-855bf1cd7687)
 
