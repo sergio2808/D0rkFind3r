@@ -9,6 +9,9 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 
 # Screenshots of the tool
 
+![image](https://github.com/user-attachments/assets/a806e923-9ecf-4b41-a5fa-e13a69b2e255)
+
+#
 ![image](https://github.com/user-attachments/assets/02ebb69d-7673-4a95-9a87-d9f78a25c830)
 
 #
