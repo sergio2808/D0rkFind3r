@@ -1,0 +1,21 @@
+site:http://s3.amazonaws.com "target.com"
+site:http://blob.core.windows.net "target.com"
+site:http://googleapis.com "target.com"
+site:http://drive.google.com "target.com"
+site:http://jsfiddle.net "target.com"
+site:http://codebeautify.org "target.com"
+site:http://codepen.io "target.com"
+site:http://pastebin.com "target.com"
+site:"target.com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
+site:"target.com" -www -shop -share -ir -mfa
+site:"target.com" ext:php
+ext:php inurl:? site:"target.com"
+ext:php |ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess site:"target.com"
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:"target.com"
+site:http://dropbox.com/s "target.com"
+site:http://box.com/s "target.com"
+site:http://docs.google.com inurl:"/d/" "target.com"
+site:*.*.*."target.com"
+inurl:q= | inurl:s= | inurl:search= | inurl:query= | inurl:keyword= | inurl:lang= inurl:& site:"target.com"
+inurl:url= | inurl:return= | inurl:next= | inurl:redirect= | inurl:redir= | inurl:ret= | inurl:r2= | inurl:page= inurl:& inurl:http site:"target.com"
+site:"target.com" & intext:"choose file”
