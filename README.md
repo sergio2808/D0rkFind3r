@@ -29,4 +29,6 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 **- Finally, you have to write the url that you want to search**
 `Enter a URL that will replace 'target.com': url.com`
 
+# Contributing
 
+Your contributions are always welcome! Thank you!
