@@ -17,13 +17,13 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 
 # How to use it
 
-**The first step is to execute the script**
+**- The first step is to execute the script**
 `python3 d0rkfind3r.py`
 
-**Later, the script, will ask you what is the file where the dorks are located**
+**- Later, the script, will ask you what is the file where the dorks are located**
 `Write the file name .txt (add the path if necesarry): dorks.txt`
 
-**Finally, you have to write the url that you want to search**
+**- Finally, you have to write the url that you want to search**
 `Enter a URL that will replace 'target.com': url.com`
 
 
