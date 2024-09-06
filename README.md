@@ -26,7 +26,7 @@ Additionally, we can populate the "dorks" file with custom searches by simply ch
 **- Later, the script, will ask you for the file where the dorks are located**
 `Write the file name .txt (add the path if necesarry): dorks.txt`
 
-**- Finally, you have to write the url that you want to search**
+**- Finally, you need to enter the URL that you want to search**
 `Enter a URL that will replace 'target.com': url.com`
 
 # Contributing
